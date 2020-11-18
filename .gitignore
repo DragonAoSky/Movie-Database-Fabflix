@@ -1,0 +1,17 @@
+.idea
+.DS_Store
+*.iml
+.git/
+target/
+actors63.xml
+casts124.xml
+mains243.xml
+
+.gradle
+/local.properties
+/.idea
+/build
+/captures
+*.jar
+!library-1.0.10.jar
+!gradle-wrapper.jar

@@ -1,0 +1,367 @@
+Actor The Andrews Sisters's BOA is invalid. 
+Actor Alec Baldwin's BOA is invalid. 
+Actor Stephen Baldwin's BOA is invalid. 
+Actor Vincent Ball's BOA is invalid. 
+Actor The Beatles's BOA is invalid. 
+Actor Barbara BelGeddes's BOA is invalid. 
+Actor Halle Berry's BOA is invalid. 
+Actor The Bowery Boys's BOA is invalid. 
+Actor Miriam Brickman's BOA is invalid. 
+Actor Soumitra Chatterjee's BOA is invalid. 
+Actor Anne Chevalier's BOA is invalid. 
+Actor George Clooney's BOA is invalid. 
+Actor The Commodores's BOA is invalid. 
+Actor John Crawford's BOA is invalid. 
+Actor Joe deRita's BOA is invalid. 
+Actor Lynn Frederick's BOA is invalid. 
+Actor Charlotte Gainsbourg's BOA is invalid. 
+Actor The Little Tough Guys's BOA is invalid. 
+Actor Ray Hallam's BOA is invalid. 
+Actor Terry Hatcher's BOA is invalid. 
+Actor Max Haufler's BOA is invalid. 
+Actor Dead End Kids's BOA is invalid. 
+Actor East Side Kids's BOA is invalid. 
+Actor Keystone Kops's BOA is invalid. 
+Actor Queen Latifah's BOA is invalid. 
+Actor Laurel and Hardy's BOA is invalid. 
+Actor Marx Brothers's BOA is invalid. 
+Actor David Morrissey's BOA is invalid. 
+Actor Mickey Mouse's BOA is invalid. 
+Actor Rene Navarre's BOA is invalid. 
+Actor Super Dave Osborne's BOA is invalid. 
+Actor The Sons of the Pioneers's BOA is invalid. 
+Actor Brad Pitt's BOA is invalid. 
+Actor Moliere Players's BOA is invalid. 
+Actor Sarah Polley's BOA is invalid. 
+Actor Gilda Radner's BOA is invalid. 
+Actor Pamela Reed's BOA is invalid. 
+Actor The Ritz-Brothers's BOA is invalid. 
+Actor Tanya Roberts's BOA is invalid. 
+Actor Howard E. Rollins~jr.'s BOA is invalid. 
+Actor Tim Roth's BOA is invalid. 
+Actor Mercedes Ruehl's BOA is invalid. 
+Actor Claudia Schiffer's BOA is invalid. 
+Actor Tony Shalhoub's BOA is invalid. 
+Actor Posh Spice's BOA is invalid. 
+Actor The Loving Spoonful's BOA is invalid. 
+Actor Sting's BOA is invalid. 
+Actor Natalie Talmadge's BOA is invalid. 
+Actor Fred Thompson's BOA is invalid. 
+Actor The Who's BOA is invalid. 
+Actor The Wiere~Brothers's BOA is invalid. 
+Actor Dianne Wiest's BOA is invalid. 
+The insertion of star Graham Greene failed.
+The insertion of star Lesley Ann Warren failed.
+The insertion of star Anthony Quinn failed.
+The insertion of star Helena Bonham Carter failed.
+The insertion of star Olivia Hussey failed.
+The insertion of star Elaine May failed.
+The insertion of star Peter Falk failed.
+The insertion of star Donald Sutherland failed.
+The insertion of star Veronica Cartwright failed.
+The insertion of star John Standing failed.
+The insertion of star Kirk Douglas failed.
+The insertion of star Cher failed.
+The insertion of star Jennifer Salt failed.
+The insertion of star Griffin Dunne failed.
+The insertion of star Scott Wilson failed.
+The insertion of star Glenn Close failed.
+The insertion of star Burt Reynolds failed.
+The insertion of star John Travolta failed.
+The insertion of star Rod Steiger failed.
+The insertion of star Harry Hamlin failed.
+The insertion of star Roman Polanski failed.
+The insertion of star Jeff Conaway failed.
+The insertion of star Diane Lane failed.
+The insertion of star Kim Basinger failed.
+The insertion of star Nicolas Cage failed.
+The insertion of star John Ritter failed.
+The insertion of star Carl Reiner failed.
+The insertion of star Jeanne Moreau failed.
+The insertion of star Gary Oldman failed.
+The insertion of star Jean Rochefort failed.
+The insertion of star Johnny Cash failed.
+The insertion of star Mia Farrow failed.
+The insertion of star Michael Elphick failed.
+The insertion of star Judi Dench failed.
+The insertion of star Ellen Burstyn failed.
+The insertion of star Timothy Hutton failed.
+The insertion of star Albert Finney failed.
+The insertion of star Giancarlo Giannini failed.
+The insertion of star Ron Moody failed.
+The insertion of star Bruce Boxleitner failed.
+The insertion of star Paul Newman failed.
+The insertion of star Robert Vaughn failed.
+The insertion of star Jeremy Irons failed.
+The insertion of star Harold Gould failed.
+The insertion of star Lois Smith failed.
+The insertion of star Charles Grodin failed.
+The insertion of star David Hemmings failed.
+The insertion of star Elton John failed.
+The insertion of star Dominic Frontiere failed.
+The insertion of star Jena Malone failed.
+The insertion of star John Hurt failed.
+The insertion of star Fred Williamson failed.
+The insertion of star Billy Crystal failed.
+The insertion of star Allen Garfield failed.
+The insertion of star Kurt Russell failed.
+The insertion of star Steven Seagal failed.
+The insertion of star Jessica Lange failed.
+The insertion of star John Heard failed.
+The insertion of star Val Kilmer failed.
+The insertion of star Clint Eastwood failed.
+The insertion of star Bernadette Peters failed.
+The insertion of star Derek Jacobi failed.
+The insertion of star Jill Balcon failed.
+The insertion of star Jane Seymour failed.
+The insertion of star Tom Courtenay failed.
+The insertion of star George Segal failed.
+The insertion of star Richard Gere failed.
+The insertion of star Anne Bancroft failed.
+The insertion of star Robert Culp failed.
+The insertion of star James Garner failed.
+The insertion of star Jack Nicholson failed.
+The insertion of star Dirk Benedict failed.
+The insertion of star Patrick Swayze failed.
+The insertion of star Frank Oz failed.
+The insertion of star Kevin Costner failed.
+The insertion of star Lynn Redgrave failed.
+The insertion of star Ursula Andress failed.
+The insertion of star Michael Caine failed.
+The insertion of star David Bowie failed.
+The insertion of star Claude Brasseur failed.
+The insertion of star Tom Skerritt failed.
+The insertion of star Robert Duvall failed.
+The insertion of star Leslie Phillips failed.
+The insertion of star Jim Brown failed.
+The insertion of star Frank Finlay failed.
+The insertion of star Judd Nelson failed.
+The insertion of star Robin Williams failed.
+The insertion of star Ben Gazzara failed.
+The insertion of star Richard Attenborough failed.
+The insertion of star Blake Edwards failed.
+The insertion of star Greta Scacchi failed.
+The insertion of star Tupac Shakur failed.
+The insertion of star Adolfo Celi failed.
+The insertion of star Bridget Fonda failed.
+The insertion of star Eric Roberts failed.
+The insertion of star Alan Arkin failed.
+The insertion of star Cloris Leachman failed.
+The insertion of star Maureen Stapleton failed.
+The insertion of star Dustin Hoffman failed.
+The insertion of star Francis Ford Coppola failed.
+The insertion of star Tom Bell failed.
+The insertion of star Guinevere Turner failed.
+The insertion of star Kim Darby failed.
+The insertion of star Rati Agnihotri failed.
+The insertion of star Christopher Walken failed.
+The insertion of star Mariette Hartley failed.
+The insertion of star Mark Harmon failed.
+The insertion of star Don Rickles failed.
+The insertion of star Holly Hunter failed.
+The insertion of star Julia Roberts failed.
+The insertion of star Kris Kristofferson failed.
+The insertion of star Jane March failed.
+The insertion of star Sydney Pollack failed.
+The insertion of star Robert Wagner failed.
+The insertion of star Shirley Jones failed.
+The insertion of star Helen Hunt failed.
+The insertion of star Mario Adorf failed.
+The insertion of star Jeff Goldblum failed.
+The insertion of star Jane March failed.
+The insertion of star Fred Savage failed.
+The insertion of star Harry Belafonte failed.
+The insertion of star James Darren failed.
+The insertion of star Kieran Culkin failed.
+The insertion of star Dolly Parton failed.
+The insertion of star Margot Kidder failed.
+The insertion of star Edward Albert failed.
+The insertion of star Natalie Portman failed.
+The insertion of star Jon Voight failed.
+The insertion of star Bo Svenson failed.
+The insertion of star Shirley MacLaine failed.
+The insertion of star Woody Allen failed.
+The insertion of star Hank Azaria failed.
+The insertion of star Ronald Reagan failed.
+The insertion of star Ron Silver failed.
+The insertion of star Tom Hanks failed.
+The insertion of star Clotilde Courau failed.
+The insertion of star Jack Thompson failed.
+The insertion of star Charles Farrell failed.
+The insertion of star Elizabeth Hurley failed.
+The insertion of star Julie Delpy failed.
+The insertion of star Sean Penn failed.
+The insertion of star Vanessa Williams failed.
+The insertion of star Chris Sarandon failed.
+The insertion of star Omar Sharif failed.
+The insertion of star Paul Sorvino failed.
+The insertion of star Jonathan Pryce failed.
+The insertion of star Sylvester Stallone failed.
+The insertion of star Marlene Dietrich failed.
+The insertion of star Melanie Griffith failed.
+The insertion of star Peter OToole failed.
+The insertion of star Colin Gordon failed.
+The insertion of star Bo Hopkins failed.
+The insertion of star Seymour Cassel failed.
+The insertion of star Anjelica Huston failed.
+The insertion of star Andrew Stevens failed.
+The insertion of star Elliott Gould failed.
+The insertion of star Michael York failed.
+The insertion of star Greta Garbo failed.
+The insertion of star Elvis Presley failed.
+The insertion of star Lucie Arnaz failed.
+The insertion of star Sam Elliott failed.
+The insertion of star Patrick MacNee failed.
+The insertion of star Ossie Davis failed.
+The insertion of star Christian Slater failed.
+The insertion of star Tom Bosley failed.
+The insertion of star Brooke Adams failed.
+The insertion of star Robert Conrad failed.
+The insertion of star Per Oscarsson failed.
+The insertion of star Martin Short failed.
+The insertion of star Ned Beatty failed.
+The insertion of star Roger Corman failed.
+The insertion of star William Shatner failed.
+The insertion of star Anouk Aimee failed.
+The insertion of star Warren Beatty failed.
+The insertion of star Hector Elizondo failed.
+The insertion of star Faye Dunaway failed.
+The insertion of star Mickey Rooney failed.
+The insertion of star Kenneth Branagh failed.
+The insertion of star Catherine Deneuve failed.
+The insertion of star Roger Daltrey failed.
+The insertion of star Brad Dourif failed.
+The insertion of star James Coburn failed.
+The insertion of star Gerard Depardieu failed.
+The insertion of star Juliette Greco failed.
+The insertion of star Charles Aznavour failed.
+The insertion of star Paul Michael Glaser failed.
+The insertion of star Hanna Schygulla failed.
+The insertion of star Amitabh Bachchan failed.
+The insertion of star Elizabeth Ashley failed.
+The insertion of star Vanessa Redgrave failed.
+The insertion of star Jamie Lee Curtis failed.
+The insertion of star David Soul failed.
+The insertion of star Tommy Lee Jones failed.
+The insertion of star John Beck failed.
+The insertion of star Henry Gibson failed.
+The insertion of star Soupy Sales failed.
+The insertion of star Nick Nolte failed.
+The insertion of star Greg Kinnear failed.
+The insertion of star Bernard Hepton failed.
+The insertion of star Ellen Barkin failed.
+The insertion of star Julie Christie failed.
+The insertion of star George Kennedy failed.
+The insertion of star Tim Curry failed.
+The insertion of star James Fox failed.
+The insertion of star Freddie Jones failed.
+The insertion of star Willie Nelson failed.
+The insertion of star Arnold Schwarzenegger failed.
+The insertion of star Louise Lasser failed.
+The insertion of star Don Murray failed.
+The insertion of star Micheline Presle failed.
+The insertion of star Burt Kwouk failed.
+The insertion of star Hywel Bennett failed.
+The insertion of star Karina Lombard failed.
+The insertion of star Matt Dillon failed.
+The insertion of star Mel Brooks failed.
+The insertion of star Geraldine Chaplin failed.
+The insertion of star Angela Bassett failed.
+The insertion of star Susan Sarandon failed.
+The insertion of star Laura Dern failed.
+The insertion of star Bob Hoskins failed.
+The insertion of star Sam Waterston failed.
+The insertion of star Stockard Channing failed.
+The insertion of star Candice Bergen failed.
+The insertion of star Ruben Blades failed.
+The insertion of star Richard Anderson failed.
+The insertion of star Elijah Wood failed.
+The insertion of star Alan Alda failed.
+The insertion of star Marlon Brando failed.
+The insertion of star James Brolin failed.
+The insertion of star Christopher Atkins failed.
+The insertion of star Pat Boone failed.
+The insertion of star Albert Brooks failed.
+The insertion of star Malcolm McDowell failed.
+The insertion of star Steve Martin failed.
+The insertion of star Lindsay Wagner failed.
+The insertion of star Dudley Sutton failed.
+The insertion of star Ronny Cox failed.
+The insertion of star Dom DeLuise failed.
+The insertion of star Phyllis Diller failed.
+The insertion of star Gary Busey failed.
+The insertion of star Fanny Ardant failed.
+The insertion of star William Atherton failed.
+The insertion of star Diana Rigg failed.
+The insertion of star Josephine Baker failed.
+The insertion of star Stacy Keach failed.
+The insertion of star John Phillip Law failed.
+The insertion of star Gary Kemp failed.
+The insertion of star Gene Hackman failed.
+The insertion of star Rita Moreno failed.
+The insertion of star Beverly Garland failed.
+The insertion of star Chiara Mastroianni failed.
+The insertion of star Kim Novak failed.
+The insertion of star Sherilyn Fenn failed.
+The insertion of star Marthe Keller failed.
+The insertion of star Antonio Banderas failed.
+The insertion of star Fred Astaire failed.
+The insertion of star Bud Spencer failed.
+The insertion of star Roger Rees failed.
+The insertion of star William Baldwin failed.
+The insertion of star John Cleese failed.
+The insertion of star Craig Wasson failed.
+The insertion of star Carol Burnett failed.
+The insertion of star Peter Vaughan  failed.
+The insertion of star Spike Milligan failed.
+The insertion of star Samuel L. Jackson failed.
+The insertion of star Marie-France Pisier failed.
+The insertion of star John Alderton failed.
+The insertion of star Kate Winslet failed.
+The insertion of star Beverly Tyler failed.
+The insertion of star Frances Fisher failed.
+The insertion of star Judy Geeson failed.
+The insertion of star Meryl Streep failed.
+The insertion of star Rutger Hauer failed.
+The insertion of star Sally Field failed.
+The insertion of star Maggie Smith failed.
+The insertion of star Jodie Foster failed.
+The insertion of star Phoebe Cates failed.
+The insertion of star Ronald Pickup failed.
+The insertion of star James Marshall failed.
+The insertion of star Sydney Chaplin failed.
+The insertion of star Justin Henry failed.
+The insertion of star Ian McShane failed.
+The insertion of star Winona Ryder failed.
+The insertion of star Nicole Kidman failed.
+The insertion of star Vanessa Williams failed.
+The insertion of star Emily Watson failed.
+The insertion of star Adam Sandler failed.
+The insertion of star Robert Loggia failed.
+The insertion of star Rip Torn failed.
+The insertion of star Bruce Dern failed.
+The insertion of star Barry Primus failed.
+The insertion of star Lisa Eichhorn failed.
+The insertion of star Joan Plowright failed.
+The insertion of star Jeff Bridges failed.
+The insertion of star Martin Sheen failed.
+The insertion of star James Drury failed.
+The insertion of star Sigourney Weaver failed.
+The insertion of star Anna Massey failed.
+The insertion of star John Boorman failed.
+The insertion of star Sarah Jessica Parker failed.
+The insertion of star James Naughton failed.
+The insertion of star Sam Shepard failed.
+The insertion of star Annie Girardot failed.
+The insertion of star William Hurt failed.
+The insertion of star Michael J. Fox failed.
+The insertion of star Beau Bridges failed.
+The insertion of star Mariel Hemingway failed.
+The insertion of star Peter Sallis failed.
+The insertion of star Michel Piccoli failed.
+The insertion of star Leni Riefenstahl failed.
+The insertion of star Pam Grier failed.
+The insertion of star Terry Moore failed.
+The insertion of star Goldie Hawn failed.
+The insertion of star Danielle Darrieux failed.
+The insertion of star Balthazar Getty failed.

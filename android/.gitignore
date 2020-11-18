@@ -1,0 +1,10 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+*.jar
+!library-1.0.10.jar
+!gradle-wrapper.jar

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Dashboard</title>
+</head>
+<body>
+
+<h1 ALIGN="CENTER">Dashboard</h1>
+<span style="position:absolute; right:20px; top:10px;"> <a href="shopcart.html"><font size="3">Check Out</font></a></span>
+<span style="position:absolute; right:20px; top:30px;"> <a href="search.html"><font size="3">Search</font></a></span>
+<form action="logout" method="post">
+    <span style="position:absolute; right:20px; top:50px;">
+    <input type="submit" value="Logout" />
+    </span>
+</form>
+
+<h3>Add Stars</h3>
+<form id = "add_star" ACTION="dash-board" METHOD="GET">
+
+    Star name(*): <input TYPE="TEXT" name="add_star_name"><br>
+
+    Birth Year: <input TYPE="TEXT" name="add_star_boa"><br>
+
+    <input TYPE="SUBMIT" VALUE="Add Star">
+</form>
+<div id="addstar_error_message"></div>
+
+<h3>Add Movies</h3>
+<form id = "add_movie" ACTION="dash-board" METHOD="GET">
+
+    Movie title: <input TYPE="TEXT" name="add_movie_title"><br>
+
+    Director: <input TYPE="TEXT" name="add_movie_dir"><br>
+
+    Year: <input TYPE="TEXT" name="add_movie_year"><br>
+
+    Star name: <input TYPE="TEXT" name="add_movie_star"><br>
+
+    Genre: <input TYPE="TEXT" name="add_movie_genre"><br>
+
+    <input TYPE="SUBMIT" VALUE="Add Movie">
+</form>
+<div id="addmovie_error_message"></div>
+
+<p>
+<h3>Metadata information</h3>
+</p>
+<div id="metadata"></div>
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="./dash-board.js"></script>
+<script src="./add-movie.js"></script>
+</body>
+</html>

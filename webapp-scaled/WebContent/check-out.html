@@ -1,0 +1,61 @@
+<!-- This page will be redirected from any url if you are not logged in -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Payment</title>
+</head>
+<body>
+<h2>Place Your Order</h2>
+<!-- Set the method to POST to avoid showing the username/password in the URL
+     The default action is disabled to allow your own implementation. -->
+<span style="position:absolute; right:25px; top:10px;"> <a href="shopcart.html"><font size="3">Return Shopping Cart</font></a></span>
+<span style="position:absolute; right:25px; top:30px;"> <a href="index.html?mode=3"><font size="3">Return Movie List</font></a></span>
+<span style="position:absolute; right:25px; top:50px;"> <a href="search.html"><font size="3">Return Search</font></a></span>
+<form action="logout" method="post">
+    <span style="position:absolute; right:25px; top:70px;">
+    <input type="submit" value="Logout" />
+    </span>
+</form>
+
+
+<form id="pay_form" method="post" action="#">
+    <label><b>First Name</b></label>
+    <label>
+        <input name="Fname" placeholder="Enter First Name" type="text">
+    </label>
+    <br>
+    <br>
+    <label><b>Last Name</b></label>
+    <label>
+        <input name="Lname" placeholder="Enter Last Name" type="text">
+    </label>
+    <br>
+    <br>
+    <label><b>Credit Card Number</b></label>
+    <label>
+        <input name="Cnumber" placeholder="Enter Credit Card Number" type="text">
+    </label>
+    <br>
+    <br>
+    <label><b>Expiration Date</b></label>
+    <label>
+        <input name="Edate" placeholder="Enter Expiration Date" type="text">
+    </label>
+    <br>
+
+    <h4>Your total is:</h4> <div id="Total_price"></div>
+
+    <br>
+    <input type="submit" value="Place Order">
+</form>
+
+<div id="login_error_message"></div>
+
+<!-- include jQuery-->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<!-- include our own JS file -->
+<script src="./check-out.js"></script>
+
+</body>
+</html>
