@@ -1,98 +1,39 @@
-- # General
-    - #### Team#: 161
+- # Movie Database Fabflix
+    - #### Developer: Gen Pei
+
+    - #### General Introduction:
+        ![](img/overview.png)  
+        Fabflix is a web-based movie database which is developed with AWS, MySQL, Tomcat HTML5, jQuery Java and JavaScript. It also has an Android app as a frontend. Fabflix supports Full Text Search, Autocomplete, Automatic Error Correction, XML parsing and all basic features that a movie search site should have. The search latency is less than 200 milliseconds.
     
-    - #### Names: Gen Pei
-    
-    - #### Project 5 Video Demo Link: https://www.youtube.com/watch?v=QgeYzN3phlk
+        - ##### Demo 1 - Basic functions (Movie List Page, Single Movie Page, Single Star Page): https://youtu.be/zs9H49_pt4c
+        - ##### Demo 2 - More functions (Login Page, Main page, Shopping cart): https://youtu.be/o4I_-lf-swA
+        - ##### Demo 3 - reCAPTCHA, HTTPS, PreparedStatement, Stored Procedure, XML Parsing: https://youtu.be/fCWp3MFBO4s
+        - ##### Demo 4 - Full Text Search, Autocomplete, Android Application, Fuzzy Search: https://youtu.be/EWjNIo9HVOI
+        - ##### Demo 5 - Scaling Fabflix and Performance Tuning: https://youtu.be/QgeYzN3phlk
+
+     - #### Folder Introduction:
+        android: Android app, also the frontend for Fablix.
+        encrypt: The encryptor which updates the plain text password to encrypted password and store it in the database.
+        parser: The parser which imports large XML data files into the Fabflix database
+        webapp: Fablix website.
+        webapp-scaled: Fablix website - scaled version.
 
     - #### Instruction of deployment:
     1. First clone whole project from github use command line or use git (local machine).
     2. Use Maven create war package (at where xml file locate).
     3. Copy war file to correct location (tomcat webapps). On local machine need to specify where it is by using IntelliJ.
     4. Show tomcat web apps by using http://<AWS public IP>:8080/manager/html or command line. On local machine just run it through IntelliJ.
-    5. Since we did not use any other framework, we don't neet to specify it.
-
-    - #### Collaborations and Work Distribution:
-      Gen Pei: All tasks
-
-
-- # Connection Pooling
-    - #### Include the filename/path of all code/configuration files in GitHub of using JDBC Connection Pooling.
-    Thesis: Basically, I just change almost all of my queries to prepared statement, and add some prepareCall statement (stored procedure). Then I enabled JDBC connection pooling for all servlets which involves jdbc connection.
-    link to file:
-    
-    Single-Version
-    
-    AddMovie.java: https://github.com/UCI-Chenli-teaching/cs122b-spring20-team-161/blob/master/webapp/src/AddMovie.java
-    
-    CheckOut.java: https://github.com/UCI-Chenli-teaching/cs122b-spring20-team-161/blob/master/webapp/src/CheckOut.java
-    
-    Confirmation.java: https://github.com/UCI-Chenli-teaching/cs122b-spring20-team-161/blob/master/webapp/src/Confirmation.java
-    
-    DashBoard.java: https://github.com/UCI-Chenli-teaching/cs122b-spring20-team-161/blob/master/webapp/src/DashBoard.java
-    
-    HeroSuggestion.java: https://github.com/UCI-Chenli-teaching/cs122b-spring20-team-161/blob/master/webapp/src/HeroSuggestion.java
-    
-    LoginServlet.java: https://github.com/UCI-Chenli-teaching/cs122b-spring20-team-161/blob/master/webapp/src/LoginServlet.java
-    
-    MovieList.java: https://github.com/UCI-Chenli-teaching/cs122b-spring20-team-161/blob/master/webapp/src/MovieList.java
-    
-    SearchPage.java: https://github.com/UCI-Chenli-teaching/cs122b-spring20-team-161/blob/master/webapp/src/SearchPage.java
-    
-    ShowCart.java: https://github.com/UCI-Chenli-teaching/cs122b-spring20-team-161/blob/master/webapp/src/ShowCart.java
-    
-    SingleMovie.java: https://github.com/UCI-Chenli-teaching/cs122b-spring20-team-161/blob/master/webapp/src/SingleMovie.java
-    
-    SingleStarServlet.java: https://github.com/UCI-Chenli-teaching/cs122b-spring20-team-161/blob/master/webapp/src/SingleStarServlet.java
-    
-    Scaled-Version
-    
-    AddMovie.java: https://github.com/UCI-Chenli-teaching/cs122b-spring20-team-161/blob/master/webapp-scaled/src/AddMovie.java
-    
-    CheckOut.java: https://github.com/UCI-Chenli-teaching/cs122b-spring20-team-161/blob/master/webapp-scaled/src/CheckOut.java
-    
-    Confirmation.java: https://github.com/UCI-Chenli-teaching/cs122b-spring20-team-161/blob/master/webapp-scaled/src/Confirmation.java
-    
-    DashBoard.java: https://github.com/UCI-Chenli-teaching/cs122b-spring20-team-161/blob/master/webapp-scaled/src/DashBoard.java
-    
-    HeroSuggestion.java: https://github.com/UCI-Chenli-teaching/cs122b-spring20-team-161/blob/master/webapp-scaled/src/HeroSuggestion.java
-    
-    LoginServlet.java: https://github.com/UCI-Chenli-teaching/cs122b-spring20-team-161/blob/master/webapp-scaled/src/LoginServlet.java
-    
-    MovieList.java: https://github.com/UCI-Chenli-teaching/cs122b-spring20-team-161/blob/master/webapp-scaled/src/MovieList.java
-    
-    SearchPage.java: https://github.com/UCI-Chenli-teaching/cs122b-spring20-team-161/blob/master/webapp-scaled/src/SearchPage.java
-    
-    ShowCart.java: https://github.com/UCI-Chenli-teaching/cs122b-spring20-team-161/blob/master/webapp-scaled/src/ShowCart.java
-    
-    SingleMovie.java: https://github.com/UCI-Chenli-teaching/cs122b-spring20-team-161/blob/master/webapp-scaled/src/SingleMovie.java
-    
-    SingleStarServlet.java: https://github.com/UCI-Chenli-teaching/cs122b-spring20-team-161/blob/master/webapp-scaled/src/SingleStarServlet.java
-    
-    - #### Explain how Connection Pooling is utilized in the Fabflix code.
-    In my Fablix, there are a lot of servlets involves JDBC connection, by using Connection Pooling, it would save the time cost of establish connection once by once. Since user may search movies really frequently, reuse those connections is an efficient method.
-    
-    - #### Explain how Connection Pooling works with two backend SQL.
-    In my Fablix, if the connection is for writing purpose, it will be re-directed to the sql on the master instance, but if it for reading purpose, it will read data from the local instance (where the request be re-directed, could be master or slave).
-    
-
-- # Master/Slave
-    - #### Include the filename/path of all code/configuration files in GitHub of routing queries to Master/Slave SQL.
-    AddMovie.java: https://github.com/UCI-Chenli-teaching/cs122b-spring20-team-161/blob/master/webapp-scaled/src/AddMovie.java
-    Confirmation.java: https://github.com/UCI-Chenli-teaching/cs122b-spring20-team-161/blob/master/webapp-scaled/src/Confirmation.java
-    DashBoard.java: https://github.com/UCI-Chenli-teaching/cs122b-spring20-team-161/blob/master/webapp-scaled/src/DashBoard.java
-
-
-    - #### How read/write requests were routed to Master/Slave SQL?
-    So user send request to balancer with port 80, balancer will randomly choose master or slave if the request is a read request. Otherwise, it will goes to master instance.
     
 
 - # JMeter TS/TJ Time Logs
     - #### Instructions of how to use the `log_processing.*` script to process the JMeter logs.
-    I wrote the log_processing using JAVA, it will parse the time_used.txt (should locate at the root of project folder) and calculate Total/Average TJ and TS.
+        I wrote the log_processing using JAVA, it will parse the time_used.txt (should locate at the root of project folder) and calculate Total/Average TJ and TS.
 
 
 - # JMeter TS/TJ Time Measurement Report
+     ![](img/query_time.png)  
+
+
 
 | **Single-instance Version Test Plan**          | **Graph Results Screenshot** | **Average Query Time(ms)** | **Average Search Servlet Time(ms)** | **Average JDBC Time(ms)** | **Analysis** |
 |------------------------------------------------|------------------------------|----------------------------|-------------------------------------|---------------------------|--------------|
@@ -110,21 +51,21 @@
 - # Logs file
 Single-instance
 
-Case 1: https://github.com/UCI-Chenli-teaching/cs122b-spring20-team-161/tree/master/logs
+Case 1: https://github.com/DragonAoSky/Movie-Database-Fabflix/blob/master/logs/single_http_1_Pool_time_used.txt
 
-Case 2: https://github.com/UCI-Chenli-teaching/cs122b-spring20-team-161/blob/master/logs/single_http_10_Pool_time_used.txt
+Case 2: https://github.com/DragonAoSky/Movie-Database-Fabflix/tree/master/logs/single_http_10_Pool_time_used.txt
 
-Case 3: https://github.com/UCI-Chenli-teaching/cs122b-spring20-team-161/blob/master/logs/single_https_10_Pool_time_used.txt
+Case 3: https://github.com/DragonAoSky/Movie-Database-Fabflix/tree/master/logs/single_https_10_Pool_time_used.txt
 
-Case 4: https://github.com/UCI-Chenli-teaching/cs122b-spring20-team-161/blob/master/logs/single_http_10_noPool_time_used.txt
+Case 4: https://github.com/DragonAoSky/Movie-Database-Fabflix/tree/master/logs/single_http_10_noPool_time_used.txt
 
 Scaled Version
 
-Case 1: https://github.com/UCI-Chenli-teaching/cs122b-spring20-team-161/blob/master/logs/scaled_http_1_Pool_time_used.txt
+Case 1: https://github.com/DragonAoSky/Movie-Database-Fabflix/blob/master/logs/scaled_http_1_Pool_time_used.txt
 
-Case 2: https://github.com/UCI-Chenli-teaching/cs122b-spring20-team-161/blob/master/logs/scaled_http_10_time_used.txt
+Case 2: https://github.com/DragonAoSky/Movie-Database-Fabflix/blob/master/logs/scaled_http_10_time_used.txt
 
-Case 3: https://github.com/UCI-Chenli-teaching/cs122b-spring20-team-161/blob/master/logs/scaled_http_10_noPool_time_used.txt
+Case 3: https://github.com/DragonAoSky/Movie-Database-Fabflix/blob/master/logs/scaled_http_10_noPool_time_used.txt
 
 
 - # Filters and https
