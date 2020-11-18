@@ -1,6 +1,4 @@
 - # Movie Database Fabflix
-    - #### Developer: Gen Pei
-
     - #### General Introduction:
         ![](img/overview.png)  
         Fabflix is a web-based movie database which is developed with AWS, MySQL, Tomcat HTML5, jQuery Java and JavaScript. It also has an Android app as a frontend. Fabflix supports Full Text Search, Autocomplete, Automatic Error Correction, XML parsing and all basic features that a movie search site should have. The search latency is less than 200 milliseconds.
